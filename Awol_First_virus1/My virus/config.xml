@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\hp\Documents\NetBeansProjects\Awol_First_virus1\dist\Awol_First_virus1.jar</jar>
+  <outfile>C:\Users\hp\Documents\NetBeansProjects\Awol_First_virus1\dist\Awol_First_Virus.exe</outfile>
+  <errTitle>Your Pc dosn&apos;t Have java jdk install first</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\hp\Documents\NetBeansProjects\Awol_First_virus1\dist\virus.ico</icon>
+  <singleInstance>
+    <mutexName>Awol_virus</mutexName>
+    <windowTitle>Awol_virus</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Awol Is Virus</fileDescription>
+    <copyright>NIL</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>AwolVirus</productName>
+    <companyName>Bright143 Software Compony</companyName>
+    <internalName>AwolVirus</internalName>
+    <originalFilename>Awol_First_Virus.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
